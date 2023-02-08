@@ -1,2 +1,2 @@
-### This file is inside main branch
-## This is for Resolving merge conflicts demo
+### This file is inside second branch.
+## This is demo for resolving merge conflicts.
